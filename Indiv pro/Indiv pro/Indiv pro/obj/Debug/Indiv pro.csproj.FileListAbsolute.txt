@@ -1,0 +1,7 @@
+C:\Users\desp\source\repos\Indiv pro\Indiv pro\bin\Debug\Indiv pro.exe.config
+C:\Users\desp\source\repos\Indiv pro\Indiv pro\bin\Debug\Indiv pro.exe
+C:\Users\desp\source\repos\Indiv pro\Indiv pro\bin\Debug\Indiv pro.pdb
+C:\Users\desp\source\repos\Indiv pro\Indiv pro\obj\Debug\Indiv pro.csprojAssemblyReference.cache
+C:\Users\desp\source\repos\Indiv pro\Indiv pro\obj\Debug\Indiv pro.csproj.CoreCompileInputs.cache
+C:\Users\desp\source\repos\Indiv pro\Indiv pro\obj\Debug\Indiv pro.exe
+C:\Users\desp\source\repos\Indiv pro\Indiv pro\obj\Debug\Indiv pro.pdb
